@@ -1,0 +1,140 @@
+h1 {
+  font-family: 'Sacramento', cursive;
+  font-size: 6rem;
+  margin: 100px auto 0 auto;
+  color: #08D9D6;
+  font-weight: lighter;
+  line-height: 2;
+}
+
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  background-color: #FCBAD3;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  color: #FF2E63;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #FFFFD2;
+  font-size: 2rem;
+}
+
+p{
+  color: #0E3150;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 1.5rem;
+}
+
+.top-container {
+  padding-top: 100px;
+  background-color: #B5EAEA;
+  position: relative;
+  height: 670px;
+}
+
+.binary_1 {
+  position: absolute;
+  left: 300px;
+  height: 10rem;
+  top:525px
+}
+
+.binary {
+  position: absolute;
+  top: 40px;
+  right: 300px;
+  height: 10rem;
+}
+
+.binary_2 {
+  position: absolute;
+  right:200px;
+  height: 7rem;
+  top:550px
+}
+
+.profile-photo {
+  padding: 50px;
+  height: 200px;
+  border-radius: 50%;
+}
+
+.coding-photo {
+  margin-right: 10%;
+  width: 27%;
+  float: left;
+}
+
+.chess-photo {
+  width: 27%;
+  margin-left: 10%;
+  float: right;
+}
+
+.skill-row {
+  width: 50%;
+  margin:69px auto 69px;
+  text-align: left;
+  line-height: 2;
+}
+
+.contact-me{
+  background-color: #f96b85;
+}
+
+.bottom-container{
+  background-color: #f96b85;
+  margin: 0;
+  padding-bottom: 50px;
+}
+
+.get-in-touch{
+  color: #4c5f7a;
+  font-weight: bold;
+}
+
+.linkedin-photo{
+  width: 2rem;
+}
+
+.instagram-photo{
+  width: 2rem;
+    margin-left: 3rem;
+}
+
+.website-photo{
+  width: 2rem;
+    margin-left: 3rem;
+}
+
+.mail-photo{
+  width: 3rem;
+  margin-bottom: 2rem;
+}
+
+.dots{
+  width: 3rem;
+}
+
+.cloud{
+  position: absolute;
+  left: 100px;
+  height: 10rem;
+  top:100px
+}
+
+.links-cv{
+  text-decoration: none;
+}
+
+.links-cv-text{
+  color: #f96b85;
+}
